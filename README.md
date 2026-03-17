@@ -1,6 +1,6 @@
-## Kagisho Maribe
+## Kagisho Maribe(Profile still in construction)
 
-##Profile still in construction
+
                
 Software Developer | Student at UFS | Building AI-powered tools and practical software solutions.
 
