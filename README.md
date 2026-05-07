@@ -1,6 +1,6 @@
 # Hi, I'm Kagisho Maribe 👋
 
-### Software Developer | Student at UFS | AI Tools Builder
+### Software Developer | Student at UFS | AI Tools Builder | Student Assistent(Data Analyst)
 
 I am a software developer and university student focused on building practical, user-centered software.  
 My work spans **Python**, **Next.js**, **C#**, **data tools**, and **AI-powered applications**.
