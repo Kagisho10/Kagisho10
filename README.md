@@ -16,9 +16,9 @@ I enjoy creating systems that solve real problems in **education**, **productivi
 - Computer Science student at the **Faculty of Computers and Information, Minia University** (GPA 3.4/4.0)
 - Focused on **Data Analysis & Business Intelligence** — cleaning, modeling, and visualizing data.
 - Comfortable across the full data lifecycle: SQL data warehousing, Python/ETL, ML modeling, interactive dashboards
-- knowledge of **Machine Learning**: evaluating models with Scikit-learn (Logistic Regression, XGBoost), feature engineering, and ROC-AUC/accuracy evaluation
+- Currently learning **Machine Learning**: evaluating models with Scikit-learn (Logistic Regression, XGBoost), feature engineering, and ROC-AUC/accuracy evaluation
 - Also build database-driven web apps with **PHP / Laravel / MySQL**
-- Currently sharpening skills in **machine learning workflows** and **prompt engineering / AI tooling**
+- Currently sharpening skills in **prompt engineering / AI tooling**
 
 ###
 
@@ -97,11 +97,7 @@ I enjoy creating systems that solve real problems in **education**, **productivi
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" width="48" height="48" alt="React" />
       <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48" height="48" alt="C++" />
-      <br>C++
-    </td>
+    
   </tr>
   <tr>
     <td align="center" width="96">
@@ -120,26 +116,26 @@ I enjoy creating systems that solve real problems in **education**, **productivi
       <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" />
       <br>GitHub
     </td>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" height="48" alt="Postman" />
       <br>Postman
-    </td>
+    </td> -->
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
       <br>Linux
     </td>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="48" height="48" alt="Red Hat" />
       <br>Red Hat
-    </td>
-    <td align="center" width="96">
+    </td> -->
+    <!-- <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png" width="48" height="48" alt="XGBoost" />
       <br>XGBoost
-    </td>
-    <td align="center" width="96">
+    </td> -->
+    <!-- <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" />
       <br>Matplotlib
-    </td>
+    </td> -->
   </tr>
 </table>
 ---
